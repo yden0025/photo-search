@@ -1,0 +1,24 @@
+.photo-list {
+  padding: 20px;
+}
+.photo-list .masonry-photo-list {
+  margin: 20px auto;
+  padding-left: 0;
+}
+.photo-list .masonry-photo-list .photo-item {
+  margin-top: 20px;
+}
+.photo-list .masonry-photo-list .photo-item .ant-image img {
+  border-radius: 8px;
+}
+.photo-list .masonry-photo-list .photo-item .ant-image .ant-image-mask .photographer {
+  padding-right: 40px;
+  text-align: center;
+}
+.photo-list .ant-pagination {
+  text-align: center;
+}
+.photo-list .spin {
+  margin: 50px;
+  text-align: center;
+}
